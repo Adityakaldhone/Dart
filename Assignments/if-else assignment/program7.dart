@@ -8,8 +8,6 @@ Output : Invalid month
 */
 void main() {
  int month = 7;
-
-  // Check the month number and print the number of days in that month
   if (month == 1) {
     print("January has 31 days");
   } else if (month == 2) {
